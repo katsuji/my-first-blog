@@ -25,7 +25,7 @@ SECRET_KEY = '+70nb4gi2=c1+0u+v%!+4dn!mvfp*9maa&-z@jm)iq*j8bmweo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'herokuapp.com']
 
 
 # Application definition
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ja'
 
-TIME_ZONE = 'Asia/tokyo'
+TIME_ZONE = 'Asia/Tokyo'
 
 USE_I18N = True
 
